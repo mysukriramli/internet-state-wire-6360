@@ -1,0 +1,15 @@
+{
+  "name": "internet-state-wire-6360",
+  "version": "1.0.0",
+  "description": "Transforms global internet telemetry, BGP routing, and cybersecurity pressure into deterministic operational intelligence for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
